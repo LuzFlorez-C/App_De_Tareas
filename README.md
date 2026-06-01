@@ -22,6 +22,11 @@ Permite crear, listar, actualizar el estado y eliminar tareas, conectando el fro
 | **Base de datos** | MySQL (con mysql2) |
 
 ---
+## 🔮 Mejoras futuras
+- Implementar versión con React.
+- Agregar autenticación de usuarios.
+- Integrar notificaciones o recordatorios.
+
 
 ##  Instalación y configuración
 
